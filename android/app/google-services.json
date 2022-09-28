@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "336345233073",
+    "project_id": "blacknine-3c76d",
+    "storage_bucket": "blacknine-3c76d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336345233073:android:77fcbd67b80f314c9ad490",
+        "android_client_info": {
+          "package_name": "com.rnfirstproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336345233073-ijg6497uct8ivh31q05jfuotged1jmfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWKez3oZCEwy3VRfyrGdVe0YKJj3FTd_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336345233073-ijg6497uct8ivh31q05jfuotged1jmfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
